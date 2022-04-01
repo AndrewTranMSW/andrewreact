@@ -10,154 +10,71 @@ export default function Services() {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Web Development</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
+              <p>Experience with Bootstrap, MUI, and Foundation</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
+              <p>Strong foundation in JavaScript with vanilla JS and React</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
+              <p>RESTful APIs</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
+              <p>Backend knowledge with Node, Express, Mongodb, and MySQL</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
+              <p>Experienced with HTML, CSS, and ES6</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
+              <p>Great communication with team members and co-developers</p>
             </li>
           </ul>
         </article>
         {/* End of UI/UX */}
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Fun Facts</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
+              <p>I am bilingual in English and Vietnamese</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon"></BiCheck>
+              <p>I ride a Triumph Bonneville 900cc</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon"></BiCheck>
+              <p>Favorite Magic decks: B/R Vampires and U/B Sea Monsters</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
+                I'm a wedding and portrait photographer. Let me take a photo of
+                you!
               </p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
+              <p>I am a big mechanical keyboard enthusiast</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
+              <p>Experienced in the Adobe Creative Suite</p>
             </li>
           </ul>
         </article>
         {/* End of Web Development */}
-        <article className="service">
-          <div className="service__head">
-            <h3>Content Creation</h3>
-          </div>
-          <ul className="service__list">
-            <li>
-              <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"></BiCheck>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum,
-                neque!
-              </p>
-            </li>
-          </ul>
-        </article>
-        {/* End of Content Creation */}
       </div>
     </section>
   );
