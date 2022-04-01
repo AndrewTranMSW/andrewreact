@@ -21,25 +21,30 @@ export default function About() {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>Years test test</small>
+              <small>6 years as MSW, 1 year as developer</small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>200 clients</small>
+              <small>2</small>
             </article>
             <article className="about__card">
               <AiOutlineFolderOpen className="about__icon" />
               <h5>Projects</h5>
-              <small>20 completed</small>
+              <small>19 completed</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Possimus
-            laudantium mollitia quam velit sequi nobis quisquam in quasi ratione
-            praesentium libero debitis fugiat ab numquam inventore, ipsa ipsum
-            culpa explicabo.
+            After six years as a trained medical social worker, I am
+            transitioning into the world of software development. I aim to make
+            an impact in the field of technology with my real-world experiences
+            and motivation to learn new things in an ever-changing environment.
+          </p>
+          <p>
+            In my spare time, I like to build computers, play Magic: The
+            Gathering, and I have been a professional wedding and portrait
+            photographer for the past 8 years.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk!

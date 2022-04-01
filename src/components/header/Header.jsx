@@ -18,7 +18,7 @@ export default function Header() {
           <img src={ME} alt="a photo of me" />
         </div>
 
-        <a href="#contact" className="scroll__down">
+        <a href="#about" className="scroll__down">
           Scroll Down
         </a>
       </div>
