@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.f9286a1a.css",
+    "main.css": "/static/css/main.6f9eafd1.css",
     "main.js": "/static/js/main.86368109.js",
     "static/media/Pic.jpg": "/static/media/Pic.5b43224fbd351176738a.jpg",
     "static/media/meanddogs.jpg": "/static/media/meanddogs.2843331acad20f895e0e.jpg",
@@ -12,11 +12,11 @@
     "static/media/Portfolio3.png": "/static/media/Portfolio3.7374b3816175ce3ea534.png",
     "static/media/Portfolio6.png": "/static/media/Portfolio6.07050bd5af104802c8eb.png",
     "index.html": "/index.html",
-    "main.f9286a1a.css.map": "/static/css/main.f9286a1a.css.map",
+    "main.6f9eafd1.css.map": "/static/css/main.6f9eafd1.css.map",
     "main.86368109.js.map": "/static/js/main.86368109.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9286a1a.css",
+    "static/css/main.6f9eafd1.css",
     "static/js/main.86368109.js"
   ]
 }
