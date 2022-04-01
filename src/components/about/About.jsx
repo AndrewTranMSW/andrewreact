@@ -24,12 +24,12 @@ export default function About() {
               <small>Years test test</small>
             </article>
             <article className="about__card">
-              <FiUsers className="clients__icon" />
+              <FiUsers className="about__icon" />
               <h5>Clients</h5>
               <small>200 clients</small>
             </article>
             <article className="about__card">
-              <AiOutlineFolderOpen className="projects__icon" />
+              <AiOutlineFolderOpen className="about__icon" />
               <h5>Projects</h5>
               <small>20 completed</small>
             </article>
